@@ -1,0 +1,15 @@
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\HTL\2024 - 2025\SEW\CI-CD - 13.01.2025\CI-CD\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
