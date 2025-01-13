@@ -1,0 +1,52 @@
+name: CI
+
+on:
+  # Triggers the workflow on push or pull request events for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run a one-line script
+        run: echo "Hello, world!"
+
+      - name: Run a multi-line script
+        run: |
+          echo "Add other actions to build,"
+          echo "test, and deploy your project."
+
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v4.6.0
+        with:
+          # Name des Artifacts (frei wählbar)
+          name: my-build-artifact
+          
+          # Pfad zu den Dateien oder Verzeichnissen, die hochgeladen werden sollen
+          path: build/
+
+          # Verhalten, wenn die angegebenen Dateien nicht gefunden werden
+          # warn (Standard), error, oder ignore
+          if-no-files-found: warn
+          
+          # Wie lange das Artefakt in Tagen aufbewahrt werden soll (1-90)
+          # 0 bedeutet, dass die Standard-Aufbewahrungszeit genutzt wird
+          retention-days: 7
+          
+          # Kompressionsstufe (0 = keine, bis 9 = maximal)
+          compression-level: 6
+          
+          # Überschreiben des Artifacts, falls es bereits existiert
+          overwrite: false
+          
+          # Ob versteckte Dateien mit eingeschlossen werden sollen
+          include-hidden-files: false
